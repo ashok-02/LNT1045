@@ -1,2 +1,10 @@
 This is firsst project.
+<<<<<<< HEAD
 hello.
+=======
+today is raining.
+year is 2022.
+month is august.
+date is 9.
+Tomorrow is wednesday.
+>>>>>>> br1
